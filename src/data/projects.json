@@ -1,26 +1,24 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "My Portfolio",
+    "imageSrc": "projects/portfolio.png",
+    "description": "This is a project made to showcase my skillset and projects.",
+    "skills": ["React", "CSS", "JavaScript", "Figma"],
+    "source": "https://github.com/tanvi200323/My-Portfolio"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Notify",
+    "imageSrc": "projects/Notify.png",
+    "description": "This is a project made for managing important notes and updates efficiently, ensuring a seamless platform for organized information sharing",
+    "skills": ["MongoDB", "Express","Node"],
+    "source": "https://github.com/tanvi200323/Notify-Project"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Hayroo",
+    "imageSrc": "projects/ecommerce.jpg",
+    "description": "MERN-powered e-commerce with a responsive layout, carts, and secure payments.",
+    "skills": ["MongoDB", "Express", "React", "Node"],
+    "source": "https://github.com/tanvi200323/Hayroo-MERN-Project"
   }
+  
 ]
